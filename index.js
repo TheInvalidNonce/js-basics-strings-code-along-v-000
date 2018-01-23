@@ -2,4 +2,4 @@
 
 const currentUser = "Homer Simpson"
 
-const welcomeMessage = "Welcome to Flatbook, "
+const welcomeMessage = "Welcome to Flatbook, currentUser"
